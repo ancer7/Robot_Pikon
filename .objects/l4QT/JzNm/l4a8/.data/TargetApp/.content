@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" Arguments="c:\users\hp\documents\uipath\test\report daily" ContentHash="xR6jFLSKn0yGZRPbZAwoPw" FilePath="C:\Windows\explorer.exe" Selector="&lt;wnd app='explorer.exe' cls='CabinetWClass' title='Report Daily'/&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0fcWOlo2pmUaXRdx4qA9VOg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="3ca517ccdfed12ee8ae50b2908ae7667.png" xmlns="">0sW15r81Hz06-lROGh7mWGg</imageRef>
+</TargetApp>

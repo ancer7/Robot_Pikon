@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="rC3J94BoP0GQOs9G9rd6DQ" DesignTimeRectangle="12, 104, 1341, 605" FriendlyName="'=======================…'" FullSelectorArgument="&lt;wnd cls='Scintilla' title='Notepad++' /&gt;&lt;ctrl name='====================================  Summary Report Ops Pinang *' role='client' /&gt;" FuzzySelectorArgument="&lt;wnd cls='Scintilla' title='Notepad++' /&gt;&lt;ctrl name='====================================  Summary Report Ops Pinang *' role='client' automationid='' check:text='====================================&amp;#xD;&amp;#xA;Summary Report Ops Pinang 19-12-2021&amp;#xD;&amp;#xA;=======================' /&gt;" Guid="c1c168b6-d634-4ec4-ac34-8f7621067d4e" ScopeSelectorArgument="&lt;wnd app='notepad++.exe' cls='Notepad++' title='C:\Users\HP\Downloads\Pinang Starter Kit-20211123T035246Z-001\Pi*' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="79, 78, 98, 22" ElementType="TabPage" FriendlyName="'Template.txt'" FullSelectorArgument="&lt;wnd cls='SysTabControl32' title='Tab' /&gt;&lt;ctrl name='Tab' role='page tab list' /&gt;&lt;ctrl name='Template.txt' role='page tab' /&gt;" FuzzySelectorArgument="&lt;wnd cls='SysTabControl32' title='Tab' /&gt;&lt;ctrl name='Tab' role='page tab list' /&gt;&lt;ctrl name='Template.txt' role='page tab' automationid='' check:text='Template.txt' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1_W4vV2UyDUaz44aqTKkc6w</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0OABOwRbXM0KFv4llwPxwDg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="99d22b29df791dc778485bc53e6a7955.png" xmlns="">0ry7AbbVWekmm6Hwcj-PBoA</imageRef>
+</TargetAnchorable>

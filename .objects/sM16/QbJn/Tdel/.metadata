@@ -1,0 +1,13 @@
+﻿{
+  "Id": "TdelNRL1WkOe3EXR2IlOBQ",
+  "Reference": "k4G6Ljp6EEuj3pORcR5NEQ/TdelNRL1WkOe3EXR2IlOBQ",
+  "ParentRef": "k4G6Ljp6EEuj3pORcR5NEQ/QbJnPcNl3keUaJ52pIZwnQ",
+  "Name": "Firefox: Telegram Web",
+  "Type": "Screen",
+  "Created": "2022-01-10T11:46:00.7421485Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-01-10T11:46:00.7421485Z"
+}

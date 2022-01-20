@@ -1,0 +1,12 @@
+﻿{
+  "Id": "l4QT2irunEycDK8VXDreXQ",
+  "Reference": "k4G6Ljp6EEuj3pORcR5NEQ/l4QT2irunEycDK8VXDreXQ",
+  "Name": "Report Daily",
+  "Type": "App",
+  "Created": "2022-01-13T06:04:12.2943996Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-01-13T06:04:12.2943996Z"
+}

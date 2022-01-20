@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="F-M8Jx7990GN8shk74ukHg" DesignTimeRectangle="793, 151, 327, 32" ElementType="InputBox" FriendlyName="'SearchEditBox'" FullSelectorArgument="&lt;wnd aaname='SearchEditBox' cls='ModernSearchBox' /&gt;" FuzzySelectorArgument="&lt;wnd aaname='SearchEditBox' cls='ModernSearchBox' /&gt;" Guid="6a709622-754d-4008-8533-6215cb308472" ScopeSelectorArgument="&lt;wnd app='explorer.exe' cls='CabinetWClass' title='Report Daily' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0sZWODt8iyUeEiqVg6ICAgw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="8ceb2539bcfeb8d10c7cb7db46d9de3d.png" xmlns="">0A-TkkuCn0EaAtiJLTnl6yw</imageRef>
+</TargetAnchorable>

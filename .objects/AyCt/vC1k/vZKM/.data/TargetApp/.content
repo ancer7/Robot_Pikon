@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" ContentHash="-L5i5jG_00mGKD19iRuSLQ" FilePath="C:\Users\BRI\AppData\Local\Programs\UiPath\Studio\uipath.studio.exe" Selector="&lt;wnd app='uipath.studio.exe' cls='HwndWrapper*' title='UiPath Studio Community'/&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0YYA6rXPuuEmc2fev7bkkLg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="ce4f72565fa6faa774c376d50f23a63e.png" xmlns="">0CxZDbmKsikedKP3KJl_7NA</imageRef>
+</TargetApp>

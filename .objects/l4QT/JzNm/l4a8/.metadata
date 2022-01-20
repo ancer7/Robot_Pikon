@@ -1,0 +1,13 @@
+﻿{
+  "Id": "l4a89pusHUutc_owu4ke7g",
+  "Reference": "k4G6Ljp6EEuj3pORcR5NEQ/l4a89pusHUutc_owu4ke7g",
+  "ParentRef": "k4G6Ljp6EEuj3pORcR5NEQ/JzNmrkaVXk6zTJimRHZ_fQ",
+  "Name": "Report Daily",
+  "Type": "Screen",
+  "Created": "2022-01-13T06:04:12.983593Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-01-13T06:04:12.983593Z"
+}

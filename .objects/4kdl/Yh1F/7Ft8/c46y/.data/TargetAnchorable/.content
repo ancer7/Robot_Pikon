@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="tqkvAE-2xk-WPGpqti68wg" DesignTimeRectangle="549, 79, 401, 612" FriendlyName="'telegram.exe Telegram'" Guid="dd29398e-76e8-496b-bf42-8e38759071c7" ScopeSelectorArgument="&lt;wnd app='telegram.exe' cls='Qt*QWindowIcon' title='Telegram (26548)' /&gt;" SearchSteps="Image" TargetType="ImageBased" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="498, 690, 44, 46" FriendlyName="'grouping'" FullSelectorArgument="&lt;ctrl idx='15' role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl automationid='' role='grouping' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">12ljl8G5r5EurJgpPxi4zRw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0P8Sys4zz00K-DIKoTJgebA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="483df18e9878005964d864a3f249effc.png" xmlns="">0d27XaG57d0KwsoMcPiIE7A</imageRef>
+</TargetAnchorable>

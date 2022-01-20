@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://web.telegram.org/k/" ContentHash="-Dz0utg2eUqLes7mmECZAQ" DesignTimeRectangle="149, 99, 233, 29" ElementType="InputBox" FriendlyName="'INPUT'" FullSelectorArgument="&lt;webctrl tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='text' aaname='' /&gt;" Guid="86cab380-1295-4c72-b539-8f22077a8856" ScopeSelectorArgument="&lt;html app='firefox.exe' title='Telegram Web' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0lsVt0DPtIkyZY_mAHZDhnw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="2629dcff921131529de66ee765ee1678.png" xmlns="">07flrPcQOa02lnxiKlJa1Ow</imageRef>
+</TargetAnchorable>

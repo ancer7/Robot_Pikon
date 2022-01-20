@@ -1,0 +1,13 @@
+﻿{
+  "Id": "f_nx8Kx_20mUEJRhSId1_Q",
+  "Reference": "k4G6Ljp6EEuj3pORcR5NEQ/f_nx8Kx_20mUEJRhSId1_Q",
+  "ParentRef": "k4G6Ljp6EEuj3pORcR5NEQ/TrdM2MZxeEa0bVYndeZYLQ",
+  "Name": "*new 1 - Notepad++",
+  "Type": "Screen",
+  "Created": "2022-01-13T04:50:47.4523578Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-01-13T04:50:47.4523578Z"
+}

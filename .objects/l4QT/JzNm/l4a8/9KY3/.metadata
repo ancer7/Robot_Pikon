@@ -1,0 +1,14 @@
+﻿{
+  "Id": "9KY3AZKQV0qIugGyYxru0Q",
+  "Reference": "k4G6Ljp6EEuj3pORcR5NEQ/9KY3AZKQV0qIugGyYxru0Q",
+  "ParentRef": "k4G6Ljp6EEuj3pORcR5NEQ/l4a89pusHUutc_owu4ke7g",
+  "Name": "Template.txt",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2022-01-13T06:04:32.9619445Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-01-13T06:04:32.9619445Z"
+}

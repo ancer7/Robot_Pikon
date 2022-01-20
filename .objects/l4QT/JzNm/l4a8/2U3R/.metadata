@@ -1,0 +1,14 @@
+﻿{
+  "Id": "2U3R97x2e0Kyw1_blLKt9A",
+  "Reference": "k4G6Ljp6EEuj3pORcR5NEQ/2U3R97x2e0Kyw1_blLKt9A",
+  "ParentRef": "k4G6Ljp6EEuj3pORcR5NEQ/l4a89pusHUutc_owu4ke7g",
+  "Name": "SearchEditBox",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-01-13T06:04:14.2513856Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-01-13T06:04:14.2513856Z"
+}

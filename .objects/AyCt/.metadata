@@ -1,0 +1,12 @@
+﻿{
+  "Id": "AyCt1MPP60y5j_2BFb8rfw",
+  "Reference": "k4G6Ljp6EEuj3pORcR5NEQ/AyCt1MPP60y5j_2BFb8rfw",
+  "Name": "C:\\Users\\HP\\Downloads\\Pinang Starter Kit-20211123T035246Z-001\\Pi*",
+  "Type": "App",
+  "Created": "2022-01-11T08:24:03.2593069Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-01-11T08:24:03.2593069Z"
+}

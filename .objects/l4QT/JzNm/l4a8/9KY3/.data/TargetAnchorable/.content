@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="75cfnvUJHESmkYdFhoBh1g" DesignTimeRectangle="795, 182, 323, 28" FriendlyName="'Template.txt'" FullSelectorArgument="&lt;uia automationid='suggestionsList' name='Results' role='list' /&gt;&lt;uia automationid='C:\Users\HP\Desktop\Report Daily\Template.txt' name='Template.txt, TXT File' role='list item' /&gt;" FuzzySelectorArgument="&lt;uia automationid='suggestionsList' name='Results' role='list' /&gt;&lt;uia automationid='C:\Users\HP\Desktop\Report Daily\Template.txt' name='Template.txt, TXT File' role='list item' check:fulltext='Template.txt' /&gt;" Guid="e02a42a7-9db1-4613-bbf1-dc1ef78a606c" ScopeSelectorArgument="&lt;wnd app='explorer.exe' cls='CabinetWClass' title='Report Daily' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0SQsBEgP-ZUyBls6zmpy1ZA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="c460712d19e5a0c43a8a88019465c355.png" xmlns="">0LuGVlk-Jkk-kgolOhMu7yg</imageRef>
+</TargetAnchorable>

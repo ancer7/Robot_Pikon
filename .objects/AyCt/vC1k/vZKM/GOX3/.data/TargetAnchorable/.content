@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="cKmBeiFFPkijOY6bc3A2Wg" DesignTimeRectangle="10, 78, 69, 22" ElementType="TabPage" FriendlyName="'new 2'" FullSelectorArgument="&lt;wnd cls='SysTabControl32' title='Tab' /&gt;&lt;ctrl name='Tab' role='page tab list' /&gt;&lt;ctrl name='new 2' role='page tab' /&gt;" FuzzySelectorArgument="&lt;wnd cls='SysTabControl32' title='Tab' /&gt;&lt;ctrl name='Tab' role='page tab list' /&gt;&lt;ctrl name='new 2' role='page tab' automationid='' check:text='new 2' /&gt;" Guid="fe8c77a7-311a-4032-8881-f571935a691a" ScopeSelectorArgument="&lt;wnd app='notepad++.exe' cls='Notepad++' title='C:\Users\HP\Downloads\Pinang Starter Kit-20211123T035246Z-001\Pi*' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0VCY81NurRU6NllDj4rN4Jw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="16dec805e468458431c91fa31aad978e.png" xmlns="">0UzFxnFGuj0OZGlDgq7zjpw</imageRef>
+</TargetAnchorable>

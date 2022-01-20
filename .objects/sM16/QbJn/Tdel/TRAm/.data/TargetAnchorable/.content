@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://web.telegram.org/k/" ContentHash="pwaX3R3jO0C5YHxAz-Id8w" DesignTimeRectangle="109, 206, 286, 54" FriendlyName="'DIV'" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;ul&amp;gt;li&amp;gt;div' isleaf='1' parentid='search-container' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl type='' isleaf='1' parentid='search-container' tag='DIV' aaname='' /&gt;" Guid="b36ff99c-9a7b-4445-907f-63fdad38825a" ScopeSelectorArgument="&lt;html app='firefox.exe' title='Telegram Web' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0IOVt3eI6BEuH3tKM-mMkbA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="738b62b0b07bc1620ed54a3d87dfd8d5.png" xmlns="">048zJT4Wf5UO5KdWXHEmChA</imageRef>
+</TargetAnchorable>

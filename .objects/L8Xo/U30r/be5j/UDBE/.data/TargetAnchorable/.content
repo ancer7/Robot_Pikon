@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="WMurJglSpUqEeBr_i54y2A" DesignTimeRectangle="466, 434, 88, 26" ElementType="Button" FriendlyName="'unchecked'" FullSelectorArgument="&lt;wnd ctrlid='1' title='&amp;amp;Save' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='1' title='&amp;amp;Save' check:text='unchecked' /&gt;" Guid="0b0b47f4-6ff6-4dc2-8cf1-22b5be216d7b" ScopeSelectorArgument="&lt;wnd app='notepad++.exe' cls='#32770' title='Save As' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="304, 438, 150, 18" ElementType="CheckBox" FriendlyName="'Append extension'" FullSelectorArgument="&lt;wnd aaname='Append extension' cls='Button' title='&amp;amp;Append extension' /&gt;" FuzzySelectorArgument="&lt;wnd aaname='Append extension' cls='Button' title='&amp;amp;Append extension' check:fulltext='Append extension' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1Y3dx0KiLgEy3rRq5B3vT3g</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0Kb0WpCSYq0OBxAnsFfXCZQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="297c53fb02a413ea1eef470ed4019870.png" xmlns="">0bx7TPIGvKky2_soaPsL5dw</imageRef>
+</TargetAnchorable>

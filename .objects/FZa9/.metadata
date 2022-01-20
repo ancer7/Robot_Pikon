@@ -1,0 +1,12 @@
+﻿{
+  "Id": "FZa9peGE-ku4Q3Olc9BVaQ",
+  "Reference": "k4G6Ljp6EEuj3pORcR5NEQ/FZa9peGE-ku4Q3Olc9BVaQ",
+  "Name": "*new 1 - Notepad++(2)",
+  "Type": "App",
+  "Created": "2022-01-13T06:08:39.1260022Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-01-13T06:08:39.1260022Z"
+}

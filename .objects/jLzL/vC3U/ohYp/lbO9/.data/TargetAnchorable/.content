@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://web.telegram.org/k/" ContentHash="KcGmIdU6gkSLRU5OD5S90w" DesignTimeRectangle="398, -113, 878, 1095" FriendlyName="'DIV'" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' idx='4' isleaf='1' parentid='column-center' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl type='' aaname='' isleaf='1' parentid='column-center' tag='DIV' /&gt;" Guid="f4c71f49-d04c-4ceb-8f8f-9fe54d3f9f77" Reference="k4G6Ljp6EEuj3pORcR5NEQ/lbO9yeJuyEGu_OeJPibYoQ" ScopeSelectorArgument="&lt;html app='firefox.exe' title='Telegram Web' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="591, 683, 451, 42" ElementType="InputBox" FriendlyName="'Photo or'" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' idx='14' parentid='column-center' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl type='' aaname='' parentid='column-center' tag='DIV' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1t53_n-SqTUiPwVV5rTewbw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0s8NETfCVGkqum7nnxyDEnA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="7958802562775656b0b5aa6542315665.png" xmlns="">0ewyC55pPB0yWWD1cfPqxMA</imageRef>
+</TargetAnchorable>
