@@ -1,22 +1,22 @@
 ====================================
-Summary Report Ops Pinang 20-01-2022 
+Summary Report Ops Pinang 23-06-2022
 ====================================
 A. Status login = Normal
-08:00 = 558
-10:00 = 569
+08:00 = 236
+10:00 = 204
 12:00 = 
 14:00 = 
 16:00 = 
 B. Status loan creation = Normal
-08:00 = 30
-10:00 = 30
+08:00 = 33
+10:00 = 34
 12:00 = 
 14:00 = 
 16:00 = 
 C. Status autodebet = Normal
 S
-08:00 = 88
-10:00 = 90
+08:00 = 2
+10:00 = 188
 12:00 = 
 14:00 = 
 16:00 = 
@@ -27,12 +27,12 @@ D.Login Aplikasi Pinang
 14:00 = 
 16:00 = 
 E. Pengecekan Double Debet
-Total Autodebet : 90
+Total Autodebet : 188
 Account Lebih dari 2 kali debet : 
-- Partial Debet = 19
+- Partial Debet = 0
 F.Disbursement double kredit check:
-a. Total disbursement di RK= 30
-b. Sukses disburse 1x di RK= 30
+a. Total disbursement di RK= 34
+b. Sukses disburse 1x di RK= 34
 c. Sukses disburse >1x di RK= 0
 d. Pencairan manual = 0
 G.Status Nifi rekon Pinang = Last Check 08:00 (Done)
@@ -43,3 +43,4 @@ Thank you.
 Best Regards,
 Pinang Ops Team
 
+								

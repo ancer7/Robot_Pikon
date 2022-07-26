@@ -1,0 +1,103 @@
+==========================
+REPORT PINANG : 26-07-2022 11:50:36
+==========================
+1. Jumlah Nasabah Login, sukses dan gagal   : 
+Failed is 28
+Success is 1123
+2. Jumlah Nasabah Register   : 
+321
+3. Jumlah Pengguna Untuk Setiap Langkah Pengajuan   : 
+APP_CREATED is 1
+PAYROLL_REJ is 431
+PAYROLL_APP is 13
+KTP_SAVED is 7
+PER_SAVED is 16
+PAY_SAVED is 2
+CON_SAVED is 4
+CR_SCORE_SUB is 49
+CR_SCORE_REJ is 99
+CR_SCORE_APR is 399
+USR_REJECT is 11
+DISB_ACC_CONF is 27
+DIG_SIGN_COM is 3
+DOCUMENT_SIGNED is 7
+LOAN_CREATED is 520
+LOAN_PAID is 704
+APP_EXPIRED is 127
+4. Jumlah Nasabah Yang Melakukan Pembayaran   : 1942
+5. Jumlah Nasabah Yang Melakukan Pembayaran Sukses   : 1880
+6. Jumlah Nasabah Yang Melakukan Pembayaran Gagal   : 34
+7. Jumlah Nasabah Yang Melakukan Pembayaran Pending   : 28
+8. Jumlah Nasabah Yang Melakukan Pelunasan   : 364
+9. Jumlah Pencairan Sukses   : 533
+10. Jumlah Pencairan Gagal   : 0
+11. Jumlah Pendebetan   : Rp.11,452,192,369.00
+12. Jumlah Pencairan   : Rp.8,096,990,768.00
+13. Total CIF:
+         PINANG FLEXI:
+                 New Today   : 7
+                 Recurring Today   : 37
+         PINANG PAYLATER:
+                 New Today   : 14
+                 Recurring Today   : 475
+
+We would be very happy to assist you.
+Thank you.
+
+Best Regards,
+
+Pinang Ops Team11:50 AM11:50 AMPinangBotv2
+
+==========================
+REPORT DETAIL TRANSFER TYPE : 26-07-2022 11:51:13
+==========================
+1. Autodebet : 
+F | 51 | 34
+P | 02 | 26
+P | 555 | 1
+P | 86 | 1
+S | 00 | 1905
+2. Pencairan : 
+S | 00 | 533
+3. Breakdown Pencairan : 
+a. Detail Pencairan Pinang  : 
+DEBITUR_BIASA | PNANG | 7 | Rp.34,920,000
+DEBITUR_PRIVILAGE | PNANG | 36 | Rp.189,070,768
+b. Detail Pencairan Paylater : 
+DEBITUR_PRIVILAGE | PYLTR | 477 | Rp.7,873,000,000
+4. Pelunasan : 
+P | 555 | 8
+S | 00 | 364
+============================
+5. Breakdown Hold   : 
+P | 49
+S | 1591
+6. Breakdown UnHold   : 
+F | 13
+S | 1430
+============================
+7. Breakdown Credit Scoring Approve   : 
+1 | 33
+2 | 129
+3 | 107
+4 | 77
+5 | 22
+6 | 7
+7 | 14
+8 | 12
+8. Breakdown Credit Scoring Reject   : 
+-1 | 71
+4 | 2
+5 | 11
+6 | 11
+7 | 4
+8 | 3
+============================
+9. Pendebetan > 1   : 19
+
+We would be very happy to assist you.
+Thank you.
+
+Best Regards,
+
+Pinang Ops Team11:51 AM11:51 AMPinangBotv2

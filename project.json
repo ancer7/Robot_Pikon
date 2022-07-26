@@ -3,6 +3,8 @@
   "description": "This task running in any time 2 hour to daily report",
   "main": "Main.xaml",
   "dependencies": {
+    "Telegram.BotAPI": "[6.0.0]",
+    "TLSharp": "[0.1.0.574]",
     "UiPath.Excel.Activities": "[2.11.4]",
     "UiPath.Mail.Activities": "[1.12.3]",
     "UiPath.System.Activities": "[21.10.3]",

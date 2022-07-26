@@ -1,0 +1,1 @@
+C:\Users\user1\AppData\Local\Programs\UiPath\Studio\UiRobot.exe execute --file "C:\Users\user1\Downloads\RPA_Daily\Jam12.xaml"
