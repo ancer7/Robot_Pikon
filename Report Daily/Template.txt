@@ -1,45 +1,47 @@
 ====================================
 Summary Report Ops Pinang 
 ====================================
-A. Status login = Normal
+ A. Status login = Normal
+06:30 = 
 08:00 = 
 10:00 = 
 12:00 = 
 14:00 = 
 16:00 = 
-B. Status loan creation = Normal
+B. Status loan creation = Normal 
+06:30 = 
 08:00 = 
 10:00 = 
 12:00 = 
 14:00 = 
 16:00 = 
-C. Status autodebet = Normal
-S
+C. Status autodebet = Normal 
+06:30 = 
 08:00 = 
 10:00 = 
 12:00 = 
 14:00 = 
 16:00 = 
 D.Login Aplikasi Pinang
+06:30 = 
 08:00 = 
 10:00 = 
 12:00 = 
 14:00 = 
 16:00 = 
 E. Pengecekan Double Debet
-Total Autodebet : 
+Total Autodebet : 0
 Account Lebih dari 2 kali debet : 
-- Partial Debet = 
-F.Disbursement double kredit check:
-a. Total disbursement di RK= 
-b. Sukses disburse 1x di RK= 
+- Partial Debet = 0
+F.Disbursement Double kredit check:
+a. Total disbursement di RK= 0
+b. Sukses disburse 1x di RK= 0
 c. Sukses disburse >1x di RK= 0
 d. Pencairan manual = 0
 G.Status Nifi rekon Pinang = Last Check 08:00 (Done)
-Status Nifi Rekon to Agro = Last check 08:00 (Done)
+Status Nifi Rekon To Agro = Last check 08:00 (Done)
 
 We would be very happy to assist you.
 Thank you.
 Best Regards,
 Pinang Ops Team
-
